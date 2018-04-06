@@ -1,0 +1,1 @@
+A simple docker image with webpack
